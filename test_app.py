@@ -2,7 +2,7 @@ import pytest
 import app
 
 required_product_structure = {
-    "code": 0,
+    "code": "string",
     "title": "string",
     "vendor": "string",
     "bodyHtml": "string",
